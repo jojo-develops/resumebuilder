@@ -1,0 +1,4 @@
+logging:
+  level:
+    org.springframework: ERROR
+    io.github.jojodevelops: DEBUG
